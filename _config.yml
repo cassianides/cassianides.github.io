@@ -24,7 +24,7 @@ description: PhD in physical oceanography
 # List of links in the navigation bar
 navbar-links:
   Research:
-    - State-space stock assessment: "statespace"    
+    - Eddies in the Marquesas archipelago: "MarquesasEddies"    
     - Length-based assessment: "lengthassess"
     - Recruitment processes: "recruitment"
     - Spatial bycatch prediction: "spatialbycatch"    
