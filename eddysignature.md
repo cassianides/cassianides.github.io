@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  models
-bigimg: Eddy signature in sea ice vorticity
-  - "/img/big-img/seaiceeddies.jpg" : "NASA Earth Observatory"
+title:  Eddy signature in sea ice vorticity
+bigimg: 
+- "/img/big-img/seaiceeddies.jpg" : "NASA Earth Observatory"
 ---
 title: "Ocean Eddy Signature on SAR-Derived Sea Ice Drift and Vorticity"
 
