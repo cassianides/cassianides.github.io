@@ -5,7 +5,7 @@ bigimg:
   - "/img/big-img/hane.jpeg"
 ---
 
-title: "Monitoring the influence of the mesoscale ocean dynamics on phytoplanktonicpPlumes around the Marquesas islands using multi-satellite missions"
+**Monitoring the influence of the mesoscale ocean dynamics on phytoplanktonic plumes around the Marquesas islands using multi-satellite missions**
 
 ![](/img/big-img/chl_marquesas.png){:class="img-responsive"}
 
