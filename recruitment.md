@@ -1,20 +1,15 @@
 ---
 layout: page
-title: Recruitment processes
+title: Arctic mesoscale activity
 bigimg:
-  - "/img/big-img/eggs.png"
+  - "/img/big-img/temp.png"
 ---
+"Observed Spatio-Temporal Variability of the Eddy-Sea Ice Interactions in the Arctic Basin"
+Abstract: In the Arctic Basin, the ocean dynamics at mesoscale and submesoscale under sea ice are poorly quantified and understood. Here, we analyze comprehensive data sets from Ice Tethered Profilers and moorings from the Beaufort Gyre Observing System spanning the period 2004–2019 in order to characterize the space and time variations of the (sub)mesoscale flow. In seasonally ice-covered regions, the dynamics in the surface layer is largely determined by the presence of sea ice, with an increased eddy kinetic energy and numerous eddies in summer. Beyond these regions, the influence of the sea ice conditions on the first order dynamics is less clear. A wavenumber spectra analysis of observations at the surface and at depth under the sea ice pack reveals that a large variety of regimes can be found, independently of the time and space variations of the sea ice conditions. Focusing on a census of individual eddies, and their potential signature in sea ice, we found that around 500 eddies can be detected in the subsurface layer over 2004–2019, including both submesoscale (radius between 3 and 10 km) and mesoscale (up to 80 km) structures. Based on simple scaling calculations, we quantify the dynamical or thermodynamical signature that these eddies may imprint at the surface. While they do not induce any significant heat flux and subsequent sea ice melt, subsurface eddies can induce a dynamic height anomaly of the order of a few centimetres, resulting into a surface vorticity anomaly strong enough to impact sea ice locally.'date: 2023-06-05
+venue: 'Journal of Geophysical Research: Oceans
+DOI: https://doi.org/10.1029/2022JC019469
+Cassianides, A., Lique, C., Tréguier, A.-M., Meneghello, G., & De Marez, C (2023), Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin, Journal of Geophysical Research: Oceans, 128, e2022JC019469.
 
-Much of the tremendous fluctuation in fish population sizes is due to variable conditions experienced by their tiny eggs and larvae--currents, food, and predator distributions. Physical-biological processes dictate the survival and dispersal of egg and larvae but are difficult to resolve using traditional net sampling at coarse scales in space and time. Thus, developing new tools capable of observing fish egg distributions at fine scales is important to our mechanistic understanding of why fish populations decline and recover.
 
-![](/img/big-img/recruitment.png){:class="img-responsive"}
+![](/img/big-img/schematic.png){:class="img-responsive"}
 
-Together with [Jules Jaffe's Lab](http://jaffeweb.ucsd.edu/), we are investigating how survival and dispersal of eggs and larvae affect an endangered reef fish, Nassau Grouper (*Epinephelus striatus*) in the Cayman Islands. Nassau Grouper populations have drastically declined throughout the Caribbean, primarily due to overfishing at their spawning aggregations. The aggregation off Little Cayman is the largest (documented) remaining for the species, and has greatly increased in size due to [one large recruitment pulse](https://brianstock.github.io/lengthassess/). Mechanistic understanding of how eggs survive to become spawning adults will allow for appropriate management to help protect this species.
-
-![](/img/big-img/netcam_methods.png){:class="img-responsive"}
-
-This work is still in progress.
-
-**Stock BC**, Mullen AD, Jaffee JS, Candelmo A, Heppell SA, Pattengill-Semmens CV, McCoy CM, Johnson B, and Semmens BX. 3-dimensional advection, diffusion, and mortality of eggs and larvae dispersing from a Nassau Grouper (Epinephelus striatus) spawning aggregation observed with a novel plankton imaging system. Larval Fish Conference, Palma de Mallorca, Spain, May 2019. [Slides](https://brianstock.github.io/pdf/BrianStock_NassauGrouper_recruitment_short.pdf)
-
-**Stock BC**, Mullen A, Roberts P, Jaffe JS, Waterhouse L, Pattengill-Semmens C, McCoy C, and Semmens BX. Fine-scale dispersal of eggs from a Nassau Grouper spawning aggregation. Gulf and Caribbean Fisheries Institute, Grand Cayman, Cayman Islands, Nov 2016. [Abstract](http://proceedings.gcfi.org/wp-content/uploads/2018/10/GCFI_69_97.pdf)
