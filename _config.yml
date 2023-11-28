@@ -26,12 +26,11 @@ navbar-links:
   Research:
     - Eddies in the Marquesas archipelago: "MarquesasEddies"    
     - Eddy signature in sea ice vorticity: "eddysignature"
-   # - Recruitment processes: "recruitment"
+    - Arctic mesoscale dynamics: "recruitment"
    # - Spatial bycatch prediction: "spatialbycatch"    
    # - Mixing models to estimate diet: "mixingmodels"    
- # Workshops:
-    # - Mixing models: "work-mixingmodels"
- #   - Intro to R: "work-introR"
+  Gallery & Design:
+     - Gallery: "gallery"
  # Software: 
  #   - WHAM: "wham"
  #   - MixSIAR: "mixsiar"    
