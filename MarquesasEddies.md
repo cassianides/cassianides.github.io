@@ -17,3 +17,4 @@ Cassianides A, Martinez E, Maes C, Carton X, Gorgues T. (2020). "Monitoring the 
 
 
 
+![](/img/big-img/requin.png){: .align-right width="300px"}
