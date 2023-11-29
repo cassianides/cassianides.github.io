@@ -4,7 +4,6 @@ title: Interaction between mesoscale dynamics and Chl in the Marquesas archipela
 bigimg:
   - "/img/big-img/hane.jpeg"
 ---
-![](/img/big-img/requin.png){: .align-left width="300px"}
 **Monitoring the influence of the mesoscale ocean dynamics on phytoplanktonic plumes around the Marquesas islands using multi-satellite missions**
 
 ![](/img/big-img/chl_marquesas.png){:class="img-responsive"}
@@ -14,3 +13,5 @@ Abstract: The Marquesas islands are a place of strong phytoplanktonic enhancemen
 DOI: 'https://doi.org/10.3390/rs12162520'
 
 Cassianides A, Martinez E, Maes C, Carton X, Gorgues T. (2020). "Monitoring the Influence of the Mesoscale Ocean Dynamics on Phytoplanktonic Plumes around the Marquesas Islands Using Multi-Satellite Missions" <i>Remote Sens</i>. 12, 2520
+
+![](/img/big-img/tortue.png){: .align-right width="300px"}
