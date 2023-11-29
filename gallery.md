@@ -7,20 +7,20 @@ title: Intro to R
 
 ### Ice Ice Ice 
 
-![](/img/big-img/cavern.png){:class="img-responsive"}
+![](/img/big-img/cavern.jpg){:class="img-responsive"}
 
-![](/img/big-img/scooter.png){:class="img-responsive"}
+![](/img/big-img/scooter.jpg){:class="img-responsive"}
 
-![](/img/big-img/poule.png){:class="img-responsive"}
+![](/img/big-img/poule.jpg){:class="img-responsive"}
 
 
 ### Islands
 
-![](/img/big-img/fleur.png){:class="img-responsive"}
+![](/img/big-img/fleur.jpg){:class="img-responsive"}
 
-![](/img/big-img/canne.png){:class="img-responsive"}
+![](/img/big-img/canne.jpg){:class="img-responsive"}
 
-![](/img/big-img/vache.png){:class="img-responsive"}
+![](/img/big-img/vache.jpg){:class="img-responsive"}
 
 ### Thailande
 
