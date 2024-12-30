@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Eddy signature in sea ice vorticity
-bigimg: 
+bigimg:
 - "/img/big-img/seaiceeddies.jpg" : "NASA Earth Observatory"
 ---
 
