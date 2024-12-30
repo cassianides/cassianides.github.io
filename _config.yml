@@ -31,6 +31,7 @@ navbar-links:
    # - Mixing models to estimate diet: "mixingmodels"    
   Gallery & Design:
      - Gallery: "gallery"
+     - Artwork: "artwork"
  # Software: 
  #   - WHAM: "wham"
  #   - MixSIAR: "mixsiar"    
