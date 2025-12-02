@@ -8,6 +8,5 @@ title: Artwork
 
 ![](/img/big-img/Abecedeaire_marin.jpg){:class="img-responsive"}
 
-![](/img/big-img/cavern.jpg){:class="img-responsive"}
 
 
