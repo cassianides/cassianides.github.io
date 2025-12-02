@@ -6,7 +6,7 @@ title: Artwork
 ---
 ### Marin Abecedaire
 
-![](/img/big-img/Abecedeaire_marin.jgg){:class="img-responsive"}
+![](/img/big-img/Abecedeaire_marin.jpg){:class="img-responsive"}
 
 ![](/img/big-img/cavern.jpg){:class="img-responsive"}
 
